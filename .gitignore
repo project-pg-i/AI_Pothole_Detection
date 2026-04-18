@@ -1,0 +1,11 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+uploads/
+database.json
+.dart_tool/
+build/
+.pub-cache/
+.pub/
+ios/Pods/
