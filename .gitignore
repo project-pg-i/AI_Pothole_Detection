@@ -1,9 +1,14 @@
-﻿venv/
+﻿# Python System Files
+venv/
 .venv/
 __pycache__/
 *.pyc
+
+# Local Database & Uploads
 uploads/
 database.json
+
+# Flutter System Files
 .dart_tool/
 build/
 .pub-cache/
